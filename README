@@ -1,0 +1,9 @@
+maze3d.py:
+==========
+
+    A 3-dimensional maze generator in Python.
+
+TODO:
+=====
+
+    * add visualisation (by means of a blender plugin)
